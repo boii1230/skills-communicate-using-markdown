@@ -1,1 +1,2 @@
-# This is a <h1> header
+# This is an <h1> image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
